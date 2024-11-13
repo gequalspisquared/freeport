@@ -6,7 +6,7 @@ NOTE: This is not a professional project and has not been thoroughly tested. I t
 no responsibility for any negative outcomes of using this program.
 
 ## Build and Install
-To build freeport, you must have [GO](https://go.dev/dl/) installed on your system.
+To build freeport, you must have [Go](https://go.dev/dl/) installed on your system.
 1. Clone this repo `git clone git@github.com:gequalspisquared/freeport.git` and cd into it `cd freeport`
 2. Build the executable `go build freeport.go`
 3. Install the executable to somewhere in your path, on my Linux system this was done by `sudo cp freeport /usr/local/bin`
